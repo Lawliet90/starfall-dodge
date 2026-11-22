@@ -1,0 +1,1 @@
+    vy: rand(120, 210) + elapsed * 2.2
