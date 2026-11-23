@@ -1,6 +1,6 @@
 # STARFALL DODGE — built from one prompt
 
-[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709) [![make.fun · rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/Lawliet90/starfall-dodge/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709) [![make.fun · reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/Lawliet90/starfall-dodge/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
 
 A tiny neon browser game, built by an AI agent from **one prompt**:
 
